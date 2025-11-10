@@ -1,1 +1,1 @@
-To run, please type in terminal "python run.py". This will compile the Java files and output the output.
+hi lucas
